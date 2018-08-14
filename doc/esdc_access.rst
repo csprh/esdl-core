@@ -29,7 +29,7 @@ which can be accessed in a number of different ways which are described in this 
 Download ESDC Data
 ==================
 
-The simplest approach to access the ESDC data is downloading it to you computer using the `ESDL FTP server`_.
+The simplest approach to access the ESDC data is downloading it to your computer using the `ESDL FTP server`_.
 
 Since the ESDC is basically a directory of NetCDF_ files, you can use a variety of software packages and programming
 languages to access the data. In each cube directory, you find a text file ``cube.config`` which describes the overall
